@@ -1,1 +1,2 @@
-# JPMC-task-2-completed
+# JPMC Task 2
+Starter repo for task 2 of JPMC's Forage program
